@@ -1,0 +1,28 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+h1 {
+    margin: 10px;
+    font-size: 24px;
+}
+
+.right-section {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    
+}
+
+.right-section h2,
+.right_section h3,
+.right-section h4 {
+    margin: 10px;
+    font-size: 16px;
+    line-height: 1;
+    vertical-align: middle;
+    text-decoration: underline;
+}
